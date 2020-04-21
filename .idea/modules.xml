@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/2DHelicopterGame.iml" filepath="$PROJECT_DIR$/2DHelicopterGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/2DHelicopterGame-app.iml" filepath="$PROJECT_DIR$/app/2DHelicopterGame-app.iml" group="Helicopter Rush/app" />
+      <module fileurl="file://$PROJECT_DIR$/Helicopter Rush.iml" filepath="$PROJECT_DIR$/Helicopter Rush.iml" group="Helicopter Rush" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
